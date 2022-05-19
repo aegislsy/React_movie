@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/https//aegislsy.github.io/React_movie/static/js/main.35ac55a3.js",
-    "index.html": "/https//aegislsy.github.io/React_movie/index.html",
-    "main.35ac55a3.js.map": "/https//aegislsy.github.io/React_movie/static/js/main.35ac55a3.js.map"
+    "main.js": "/https//aegislsy.github.io/React_movie.git/static/js/main.9615419d.js",
+    "index.html": "/https//aegislsy.github.io/React_movie.git/index.html",
+    "main.9615419d.js.map": "/https//aegislsy.github.io/React_movie.git/static/js/main.9615419d.js.map"
   },
   "entrypoints": [
-    "static/js/main.35ac55a3.js"
+    "static/js/main.9615419d.js"
   ]
 }
